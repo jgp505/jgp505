@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgp505&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgp505&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 # I Can Be Handling Theses Programming!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgp505&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
