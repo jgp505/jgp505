@@ -1,10 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
-  <br><br>
-  <samp>
-</p>
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgp505&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 # I Can Be Handling Theses Programming!
