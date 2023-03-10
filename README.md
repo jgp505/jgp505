@@ -1,1 +1,25 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgp505)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
+  <br><br>
+  <samp>
+    I'm Jong Goo Park 
+    <br><br>
+    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
+    <br><br>
+    I believe in a world where Milkshakes can solve any and all problems :grin:
+    <br><br>
+    P.S. I do know that HTML is not a programming language! :v:
+  </samp>
+</p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgp505&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+# I Can Be Handling Theses Programming!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgp505&layout=compact&theme=merko&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![pyotrch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
